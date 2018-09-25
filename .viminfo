@@ -1,0 +1,66 @@
+# Este ficheiro viminfo foî gerado pelo Vim 8.0.
+# Pode editar apenas se for cuidadoso!
+
+# Viminfo version
+|1,4
+
+# Value of 'encoding' when this file was written
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Last Search Pattern:
+~Msle0~/\<dashboard\>
+
+# Command Line History (newest to oldest):
+:wq
+|2,0,1526379235,,"wq"
+:q!
+|2,0,1524491072,,"q!"
+
+# Search String History (newest to oldest):
+? \<dashboard\>
+|2,1,1524491069,,"\\<dashboard\\>"
+
+# Expression History (newest to oldest):
+
+# Input Line History (newest to oldest):
+
+# Debug Line History (newest to oldest):
+
+# Registers:
+
+# File marks:
+'0  11  0  /etc/fstab
+|4,48,11,0,1526379235,"/etc/fstab"
+'1  26  11  /home/ric/docker/flask-rq-example/docker-compose.yml
+|4,49,26,11,1524491072,"/home/ric/docker/flask-rq-example/docker-compose.yml"
+
+# Jumplist (newest first):
+-'  11  0  /etc/fstab
+|4,39,11,0,1526379235,"/etc/fstab"
+-'  1  0  /etc/fstab
+|4,39,1,0,1526379201,"/etc/fstab"
+-'  26  11  /home/ric/docker/flask-rq-example/docker-compose.yml
+|4,39,26,11,1524491072,"/home/ric/docker/flask-rq-example/docker-compose.yml"
+-'  26  11  /home/ric/docker/flask-rq-example/docker-compose.yml
+|4,39,26,11,1524491072,"/home/ric/docker/flask-rq-example/docker-compose.yml"
+-'  1  0  /home/ric/docker/flask-rq-example/docker-compose.yml
+|4,39,1,0,1524491064,"/home/ric/docker/flask-rq-example/docker-compose.yml"
+-'  1  0  /home/ric/docker/flask-rq-example/docker-compose.yml
+|4,39,1,0,1524491064,"/home/ric/docker/flask-rq-example/docker-compose.yml"
+
+# History of marks within files (newest to oldest):
+
+> /etc/fstab
+	*	1526379234	0
+	"	11	0
+	^	11	0
+	.	11	83
+	+	11	82
+	+	11	83
+
+> /home/ric/docker/flask-rq-example/docker-compose.yml
+	*	1524491072	0
+	"	26	11
